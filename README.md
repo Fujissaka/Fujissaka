@@ -2,7 +2,7 @@
 
 Atualmente curso Engenharia de Informação pela Universidade Federal do ABC (UFABC) e tenho interesse em me desenvolver na área de ciência de dados e aprendizado de máquina.
 
-No decorrer da graduação, utilizei:
+No decorrer da graduação, utilizei:
 - Processamento e tratamento de dados para aprendizado de máquina
 - Aprendizado por Reforço, mais especificamente, aplicado a jogos, através da biblioteca Gym Retro
 - Processamento de voz e áudio
